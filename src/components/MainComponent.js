@@ -23,7 +23,6 @@ class Main extends Component {
     // eslint-disable-next-line no-useless-constructor
     constructor(props) {
       super(props);
-      console.log(props)
     }
 
   render() {
